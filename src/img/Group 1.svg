@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="503" height="436" viewBox="0 0 503 436">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #7ac5cd;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-228 -169)">
+    <g id="Polygon_1" data-name="Polygon 1" class="cls-1" transform="translate(339 200)">
+      <path class="cls-3" d="M 391.1346130371094 339.5 L 0.8653799891471863 339.5 L 196 1.001169443130493 L 391.1346130371094 339.5 Z"/>
+      <path class="cls-4" d="M 196 2.002288818359375 L 1.730743408203125 339 L 390.2692565917969 339 L 196 2.002288818359375 M 196 0 L 392 340 L 0 340 L 196 0 Z"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" class="cls-2" transform="translate(228 169)">
+      <path class="cls-3" d="M 502.1343688964844 435.5 L 0.8656424283981323 435.5 L 251.4996948242188 1.00069260597229 L 502.1343688964844 435.5 Z"/>
+      <path class="cls-4" d="M 251.4997253417969 2.001373291015625 L 1.7313232421875 435 L 501.2687377929688 435 L 251.4997253417969 2.001373291015625 M 251.4996948242188 3.0517578125e-05 L 503 436 L 0 436 L 251.4996948242188 3.0517578125e-05 Z"/>
+    </g>
+  </g>
+</svg>
